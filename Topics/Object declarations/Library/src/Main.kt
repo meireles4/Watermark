@@ -1,3 +1,0 @@
-object Math {
-    //TODO
-}
